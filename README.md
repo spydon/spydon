@@ -5,7 +5,7 @@
 
 ![Flame icon](https://github.com/flame-engine/brand/blob/main/icons/favicon.png) I quit my job to work for free on Flame, which is a game engine for Flutter.
 
-💸 If you like the work that I do, you can consider sponsoring me [here](https://github.com/sponsors/spydon/).
+💸 If you like the work that I do, you can consider sponsoring me [here](https://github.com/sponsors/spydon/), or just hit the `Follow` button.
 
 ⌨️ If you use Flame, you will probably see me around:
  - in the pull request and issues section of [Flame](https://github.com/flame-engine/flame)
