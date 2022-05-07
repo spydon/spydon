@@ -1,5 +1,4 @@
-### Hi there, I'm Lukas Klingsbo 👋
-### (spydon on [Twitter](https://twitter.com/spyd0n) and most other places)
+### Hi there, I'm Lukas Klingsbo 👋<br/>(spydon on [Twitter](https://twitter.com/spyd0n) and most other places)
 
 💖 I love keyboards (Dactyl Manuform), code, climbing and backpacking.
 
