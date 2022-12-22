@@ -1,6 +1,6 @@
 ![The Flame logo](https://raw.githubusercontent.com/flame-engine/brand/main/icons/Icon-192.png)
 
-### Hi there, I'm Lukas Klingsbo 👋<br/>(spydon on [Twitter](https://twitter.com/spydon) and most other places)
+### Hi there, I'm Lukas Klingsbo 👋<br/>(spydon on [Twitter](https://twitter.com/spydon), <a rel="me" href="https://fosstodon.org/@spydon">Mastodon</a> and most other places)
 
 💖 I love keyboards (Dactyl Manuform), code, climbing and backpacking.
 
