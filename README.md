@@ -16,7 +16,7 @@
  - and on our [Discord server](https://discord.com/invite/pxrBmy4)
  - Oh yes, and also on Flutter and GameDev conferences.
 
-🤖 Fun fact: I'm currently rated as the [11th most active GitHub user](https://commits.top/sweden.html](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sweden.md) in Sweden.
+🤖 Fun fact: I'm currently rated as the [11th most active GitHub user](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/sweden.md) in Sweden.
 
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/spydon)
 [![GitHub sponsors](https://img.shields.io/github/sponsors/spydon?color=orange&style=for-the-badge)](https://github.com/sponsors/spydon)
